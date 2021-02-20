@@ -1,0 +1,14 @@
+{
+    "name": "dima549/dimitriu",
+    "type": "library",
+    "authors": [{
+        "name": "Dimitriu Dmitrii",
+        "email": "dimitrriu.dima01@mail.ru"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "dimitriu\\": ""
+        }
+    }
+}
